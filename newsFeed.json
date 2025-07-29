@@ -1,8 +1,7 @@
 {
 	"newsItem": [
 		{
-			"newsTitle": "Sommerferien",
-			"newsText": "![](https://github.com/jccmuench/mv-data/blob/d278f098e6d67b342c89f311b1b763c6ce3de065/images/Sommerferien%20Aushang%20Internet%202025.png)"
+			"newsText": "![](https://cdn.jsdelivr.net/gh/jccmuench/mv-data@main/images/Sommerferien%20Aushang%20Internet%202025.png)"
 		},
 		{
 			"newsTitle": "Liebe Abiturientinnen und Abiturienten!",
